@@ -7,3 +7,9 @@ wget http://cf.10xgenomics.com/samples/cell-atac/1.1.0/atac_v1_adult_brain_fresh
 wget http://cf.10xgenomics.com/samples/cell-atac/1.1.0/atac_v1_adult_brain_fresh_5k/atac_v1_adult_brain_fresh_5k_singlecell.csv
 wget http://cf.10xgenomics.com/samples/cell-atac/1.1.0/atac_v1_adult_brain_fresh_5k/atac_v1_adult_brain_fresh_5k_fragments.tsv.gz
 wget http://cf.10xgenomics.com/samples/cell-atac/1.1.0/atac_v1_adult_brain_fresh_5k/atac_v1_adult_brain_fresh_5k_fragments.tsv.gz.tbi
+
+data: Mouse Brain data$ ls
+allen_brain.rds                                          atac_v1_adult_brain_fresh_5k_fragments.tsv.gz.tbi
+atac_v1_adult_brain_fresh_5k_filtered_peak_bc_matrix.h5  atac_v1_adult_brain_fresh_5k_singlecell.csv
+atac_v1_adult_brain_fresh_5k_fragments.tsv.gz
+
