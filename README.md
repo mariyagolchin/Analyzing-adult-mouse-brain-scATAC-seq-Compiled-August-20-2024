@@ -1,5 +1,7 @@
-# Analyzing Adult Mouse Brain scATAC-seq
-Compiled on August 20, 2024
+# Mouse Brain Analyzing
+
+- Analyzing Adult Mouse Brain :scATAC-seq https://stuartlab.org/signac/articles/mouse_brain_vignette
+- Motif analysis with Signac  :https://stuartlab.org/signac/articles/motif_vignette
 
 ## Reference
 The analysis is based on the workflow outlined by the Stuart Lab. For more details, refer to the original vignette:  
